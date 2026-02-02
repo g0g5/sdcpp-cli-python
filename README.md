@@ -205,7 +205,7 @@ The wrapper supports all options from the underlying stable-diffusion.cpp CLI:
 - **Preview Options**: Real-time preview, update intervals
 - **Advanced Features**: ControlNet, PHOTOMAKER, reference images
 
-For a complete list of available options, see [CLI_manual.md](CLI_manual.md) or run:
+For a complete list of available options, see [Official CLI manual](https://github.com/leejet/stable-diffusion.cpp/blob/master/examples/cli/README.md) or run:
 ```bash
 ./bin/sd-cli --help
 ```
