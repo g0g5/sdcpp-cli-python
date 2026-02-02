@@ -236,9 +236,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - The underlying CLI tool
-- [Stable Diffusion](https://github.com/Stability-AI/StableDiffusion) - The original model
-
-## Links
-
-- [stable-diffusion.cpp Repository](https://github.com/leejet/stable-diffusion.cpp)
-- [stable-diffusion.cpp Documentation](https://leejet.github.io/stable-diffusion.cpp/)
